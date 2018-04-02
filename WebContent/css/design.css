@@ -1,0 +1,130 @@
+.wrapper
+{
+	width:100%;
+	font-weight: 400px;
+}
+#mar{
+	margin-left: 10px;
+	color: blue;
+}
+.container
+{
+    clear:both;
+    height:1450px;
+    background-color:#eee;
+	margin:0 auto;
+	width:1000px;
+}
+
+.containers
+{
+    clear:both;
+    height:1450px;
+    background-color:#eee;
+	margin:0 auto;
+	width:1000px;
+}
+.header{
+	margin: -13px 0px;
+}
+.Questions{
+	width: 920px;
+	height: 200px;
+	float:left;
+	margin-top: 16px;
+	margin-left: 40px;
+	background-color: white;
+	box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.7);
+}
+.Answers{
+	width: 920px;
+	height: 200px;
+	float:left;
+	margin-top: 16px;
+	margin-left: 40px;
+	background-color: white;
+	box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.7);
+}
+a{
+	color: white;
+}
+.header{
+	background-color: white;
+}
+
+ul{
+	list-style-type: none;
+	overflow: hidden;
+	border-bottom: 3px solid red;
+	width: 960px;
+	background-color: black;
+}
+.navigation{
+	margin-top: -17px;
+}
+#name{
+	float: right;
+	margin-right: 0px;
+}
+li{
+	float: left;
+}
+li a{
+	display:inline-block;
+	color:white;
+	text-align:center;
+	padding:15px 16px;
+	text-decoration:none;
+	width: 90px;
+	font-size:16px;
+	transition:0.9s;
+}
+li a:hover{
+	background-color: green;
+	border-right: 3px solid purple;
+}
+.about{
+	float: left;
+	width: 600px;
+	background-color:white;
+	height:330px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border-color: red;
+	box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.4); 
+}
+.online-users{
+	float: right;
+	width: 360px;
+	background-color:white;
+	height:330px;
+	margin-top:20px;
+	font-size: 19px;
+	overflow: auto;
+	margin-right: 10px;
+	border-color: red;
+	box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.4);
+}
+#homepage_slider {
+	width: 580px;
+	padding: 15px;
+	background: #000;
+	float: left;
+	box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.6);
+}
+#news{
+	background-color: orange;
+	padding:7px;
+	margin-top: -0px;
+	color: white;
+	font-family: Times New Roman;
+}
+.news{
+	float: right;
+	width: 370px;
+	background-color:white;
+	height:330px;
+	margin-right: 10px;
+	border-color: red;
+	box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.4);
+}
